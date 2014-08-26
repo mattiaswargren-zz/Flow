@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flow", "flow\flow.csproj", "{F7FB64E4-4907-42B7-B486-39356E013AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flow.tests", "flow.tests\flow.tests.csproj", "{BAC807A2-A8EB-4BEE-889B-88F8B80CED6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAC807A2-A8EB-4BEE-889B-88F8B80CED6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC807A2-A8EB-4BEE-889B-88F8B80CED6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC807A2-A8EB-4BEE-889B-88F8B80CED6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC807A2-A8EB-4BEE-889B-88F8B80CED6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7FB64E4-4907-42B7-B486-39356E013AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FB64E4-4907-42B7-B486-39356E013AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FB64E4-4907-42B7-B486-39356E013AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FB64E4-4907-42B7-B486-39356E013AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = flow\flow.csproj
+		Policies = $0
+		$0.StandardHeader = $1
+		$1.Text = Copyright (c) ${Year} ${CopyrightHolder}
+		$1.IncludeInNewFiles = True
+	EndGlobalSection
+EndGlobal
