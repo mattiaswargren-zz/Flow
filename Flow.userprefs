@@ -1,9 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="flow/Flow.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="flow.tests/TestBasics.cs">
     <Files>
-      <File FileName="flow.tests/Test.cs" Line="1" Column="1" />
-      <File FileName="flow/Flow.cs" Line="1" Column="1" />
+      <File FileName="flow.tests/TestBasics.cs" Line="34" Column="34" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

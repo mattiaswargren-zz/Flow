@@ -7,6 +7,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>flow</RootNamespace>
     <AssemblyName>flow</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -35,6 +36,7 @@
     <Compile Include="FlowAction.cs" />
     <Compile Include="FlowItem.cs" />
     <Compile Include="IFlowItem.cs" />
+    <Compile Include="FlowParser.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
